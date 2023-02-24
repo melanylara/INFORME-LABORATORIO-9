@@ -70,6 +70,15 @@ INTEGRANTES:
 
 **EJERCICIOS 9.5.2**
 
+![image](https://user-images.githubusercontent.com/105020538/221104877-1687e44e-47ac-4ec2-a8b7-e37ba823c010.png)
+
+![image](https://user-images.githubusercontent.com/105020538/221104724-c321ec10-c0b0-4f2d-ae1c-4a5a32d57088.png)
+
+![image](https://user-images.githubusercontent.com/105020538/221104759-138c8e32-92db-4a05-80ea-2e479d5ceb7f.png)
+
+![image](https://user-images.githubusercontent.com/105020538/221104773-31e78df3-47b9-4ef2-aea6-2d40885501dd.png)
+
+**EJERCICIOS 9.5.3**
 
 
 
