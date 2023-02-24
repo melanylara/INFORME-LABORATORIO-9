@@ -64,6 +64,12 @@ INTEGRANTES:
 
 ![image](https://user-images.githubusercontent.com/105020538/221104242-9fc84cef-2473-44e3-b926-d3e44790afd8.png)
 
+![image](https://user-images.githubusercontent.com/105020538/221197965-f8de0814-9371-470a-b4c6-53a8ce69ae83.png)
+
+![image](https://user-images.githubusercontent.com/105020538/221198008-58f7f2e8-70a6-454c-b16a-c602d82cf964.png)
+
+![image](https://user-images.githubusercontent.com/105020538/221198053-afcca074-4b9c-4f2b-ac05-69c21d7f2dc6.png)
+
 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
 **EJERCICIOS 9.5.1** 
@@ -86,18 +92,18 @@ INTEGRANTES:
 
 **EJERCICIOS 9.5.3**
 
+![image](https://user-images.githubusercontent.com/105020538/221198159-614a1115-1ff0-4de2-bfb4-d62ddd16e834.png)
 
+![image](https://user-images.githubusercontent.com/105020538/221198253-a5050091-d7cc-416e-8348-508feee65993.png)
 
-
+![image](https://user-images.githubusercontent.com/105020538/221198296-595b70dd-6135-4d63-b930-885e918df72c.png)
 
 NOTA: Emplee solo una calculadora física o virtual para resolver las operaciones. No debe emplear aplicaciones web y las operaciones 
 deben realizarse en una sola operación. 
 
- 
-
 **5. VIDEO**
 
-
+https://youtu.be/yZN0z4NNWS8
 
 **6. CONCLUSIONES** 
 
