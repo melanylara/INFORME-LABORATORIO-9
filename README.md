@@ -113,7 +113,7 @@ visualización de las mismas en el plano temporal de la función sensorial.
 
 **7. BIBLIOGRAFÍA**
 
-* FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN. 
+* FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN . 
 
  
 
