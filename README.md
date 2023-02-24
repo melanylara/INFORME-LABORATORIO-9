@@ -21,7 +21,13 @@ INTEGRANTES:
 
 **2. MARCO TEÓRICO**
 
+![image](https://user-images.githubusercontent.com/105020538/221105113-79661975-a437-48ca-9ba0-eb6808f5ced6.png)
 
+![image](https://user-images.githubusercontent.com/105020538/221105150-9acd17e9-33b9-47f9-8ef6-bae861c410c5.png)
+
+![image](https://user-images.githubusercontent.com/105020538/221105185-9d9a8da6-f346-455b-a5e2-6d8cbeb42491.png)
+
+![image](https://user-images.githubusercontent.com/105020538/221105294-70af593c-dfcc-4ae8-9ae7-d5258597f28a.png)
 
 **3.	EXPLICACIÓN DEL PROCEDIMIENTO**
 
